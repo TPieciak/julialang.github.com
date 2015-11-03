@@ -14,6 +14,9 @@ Julia is now being used in several university courses. If you know of other clas
 - University of Edinburgh, Spring 2016
   * [MATH11146](http://www.drps.ed.ac.uk/15-16/dpt/cxmath11146.htm), Modern optimization methods for big data problems (Prof. [Peter Richtarik](http://www.maths.ed.ac.uk/~prichtar/index.html))
 
+- AGH University of Science and Technology, Poland, Fall 2015
+  * [Electronic systems in medical diagnosis and therapy](http://home.agh.edu.pl/~pieciak/en/dydaktyka/elektroniczne-systemy-diagnostyki-medycznej-i-terapii) (Tomasz Pieciak)
+
 - Université Paul Sabatier, Toulouse, Fall 2015
   * [Optimization in Machine Learning](http://www.irit.fr/cimi-machine-learning/node/15), (Prof. [Peter Richtarik](http://www.maths.ed.ac.uk/~prichtar/))
 
